@@ -1,0 +1,15 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.name{
+    color: rgb(251, 52, 52);
+}
+.first{
+    width: 40%;
+    float: left;
+    padding:3%;
+    margin: 1.5%;
+}
+.first img{
+    width: 100%;
+}
